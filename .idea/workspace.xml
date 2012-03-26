@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73c6081a-b2e5-4f52-928a-eb520fe146c7" name="Default" comment="Initial Version">
+    <list default="true" id="73c6081a-b2e5-4f52-928a-eb520fe146c7" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
@@ -38,7 +38,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="31" selection-start="1176" selection-end="1176" vertical-scroll-proportion="0.22493225">
+            <state line="61" column="45" selection-start="1190" selection-end="1190" vertical-scroll-proportion="0.22493225">
               <folding />
             </state>
           </provider>
@@ -366,7 +366,11 @@
       <created>1332777429214</created>
       <updated>1332777429214</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Version">
+      <created>1332796642378</created>
+      <updated>1332796642378</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -476,7 +480,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="31" selection-start="1176" selection-end="1176" vertical-scroll-proportion="0.22493225">
+        <state line="61" column="45" selection-start="1190" selection-end="1190" vertical-scroll-proportion="0.22493225">
           <folding />
         </state>
       </provider>
